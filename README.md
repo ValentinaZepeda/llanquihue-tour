@@ -5,10 +5,10 @@ Este proyecto es una aplicación desarrollada en Java para la agencia de turismo
 
 ## Estructura de carpeta 
 El proyecto está organizado bajo la siguiente estructura de paquetes dentro del directorio "src/":
-"model/": Contiene la clase "Tour" que representa los datos y atributos.
-"data/": Contiene la clase "GestorDatos" encargada de leer el archivo ".txt".
-"ui/": Contiene la clase "Main" para la ejecución y visualización por consola. 
-"resources/": Directorio que almacena el archivo de datos "tours.txt".
+* "model/": Contiene la clase "Tour" que representa los datos y atributos.
+* "data/": Contiene la clase "GestorDatos" encargada de leer el archivo ".txt".
+* "ui/": Contiene la clase "Main" para la ejecución y visualización por consola. 
+* "resources/": Directorio que almacena el archivo de datos "tours.txt".
 
 ## Instrucciones para ejecutar la clase Main
 1. Abrir el proyecto en su IDE.
