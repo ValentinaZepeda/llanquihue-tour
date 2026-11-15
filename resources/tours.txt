@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;12000
+Ruta de la Cerveza;Llanquihue;25000
+Paseo Lacustre;Frutillar;15000
+Tour Volcan Osorno;Puerto Varas;35000
+Circuito Patrimonial;Llanquihue;8000
