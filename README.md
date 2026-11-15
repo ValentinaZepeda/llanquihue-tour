@@ -10,3 +10,9 @@ El proyecto está organizado bajo la siguiente estructura de paquetes dentro del
 "ui/": Contiene la clase "Main" para la ejecución y visualización por consola. 
 "resources/": Directorio que almacena el archivo de datos "tours.txt".
 
+Instrucciones para ejecutar la clase Main
+1. Abrir el proyecto en su IDE.
+2. Verificar que el archivo "tours.txt" se encuentre correctamente en la ruta "src/resources/".
+3. Navegar hasta el paquete "ui/" y abrir la clase "Main.java".
+4. Hacer clic derecho en el código y seleccionar "Run file" (o presionar Shift+F6).
+5. La consola mostrará primero la lista completa de tours y luego el resultado de los tours filtrados por precio (menor a $20.000).
