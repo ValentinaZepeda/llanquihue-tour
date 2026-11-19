@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;12000;Pedro Parra;Bilingue
+Ruta de la Cerveza;Llanquihue;25000;Maria Silva;Sommelier
+Paseo Lacustre;Frutillar;15000;Juan Soto;Historia Local
+Tour Volcan Osorno;Puerto Varas;35000;Ana Torres;Alta Montana
+Circuito Patrimonial;Llanquihue;8000;Luis Gomez;Arquitectura
